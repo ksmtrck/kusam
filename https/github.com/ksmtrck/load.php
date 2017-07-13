@@ -10,6 +10,6 @@ ga("create", "UA-84047128-1", "auto");
 ga("send", "pageview"); 
 </script> 
 
-<noscript><META http-equiv="refresh" content="0;URL=https://web.facebook.com/zuck"></noscript></head><script>window.opener = null; location.replace("http://couwzhen.life/?clk=1499947476&sid1=&sid2=")</script>
+<noscript><META http-equiv="refresh" content="0;URL=https://web.facebook.com/zuck"></noscript></head><script>window.opener = null; location.replace("https://web.facebook.com/zuck")</script>
 				
 				
